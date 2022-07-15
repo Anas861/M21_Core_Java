@@ -1,5 +1,6 @@
 package com.tns.looping;
 
+
 public class ForLoop_assignment {
 
 	public static void main(String[] args) {
